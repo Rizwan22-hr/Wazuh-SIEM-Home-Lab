@@ -51,6 +51,7 @@ The lab was built to simulate a Security Operations Center (SOC) environment for
 
 ---
 
+
 ## Screenshots
 
 ### Kali Agent Running
@@ -67,7 +68,7 @@ The lab was built to simulate a Security Operations Center (SOC) environment for
 
 ### Threat Hunting Events
 
-![Threat Hunting](screenshots/04-Threat-Hunting-Kali-Events.png)
+![Threat Hunting](screenshots/04-Threat-hunting-Kali-Events.png)
 
 ### Dashboard Overview
 
