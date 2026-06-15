@@ -56,23 +56,23 @@ The lab was built to simulate a Security Operations Center (SOC) environment for
 
 ### Kali Agent Running
 
-![Kali Agent](screenshots/01-kali-wazuh-agent-running.png)
+![Kali Agent](01-kali-wazuh-agent-running.png)
 
 ### Ubuntu Wazuh Manager Running
 
-![Ubuntu Manager](screenshots/02-Ubuntu-wazuh-manager-running.png)
+![Ubuntu Manager](02-Ubuntu-wazuh-manager-running.png)
 
 ### Active Agents
 
-![Agents](screenshots/03-wazuh-agents-active.png)
+![Agents](03-wazuh-agents-active.png)
 
 ### Threat Hunting Events
 
-![Threat Hunting](screenshots/04-Threat-hunting-Kali-Events.png)
+![Threat Hunting](04-Threat-hunting-Kali-Events.png)
 
 ### Dashboard Overview
 
-![Dashboard](screenshots/05-wazuh-dashboard-overview.png)
+![Dashboard](05-wazuh-dashboard-overview.png)
 
 ---
 
